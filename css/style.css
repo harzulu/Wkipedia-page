@@ -1,6 +1,11 @@
+.spacer {
+  border-color: white;
+  color: white;
+  height: 50px;
+}
 #sidebar {
   color:  blue;
-  float:left;
+  float: left;
   font-family: sans-serif;
   position: center;
 }
@@ -10,8 +15,11 @@
   color: grey;
 }
 
+.title {
+  background-color: hotpink;
+}
+
 .subject-list {
-    float: right;
     font-family: sans-serif;
 }
 
@@ -34,7 +42,7 @@ img {
 }
 
 #dino {
-    float: left;
+  float: left;
 }
 
 #zombie {
