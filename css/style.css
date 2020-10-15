@@ -1,19 +1,46 @@
 #sidebar {
     float:left;
+    font-family: sans-serif;
 }
 
 .subject-list {
     float: right;
+    font-family: sans-serif;
 }
 
-#bottom {
 
+.col-mid-8 img #first {
+    float: left;
+    width: 15%;
+    height: auto;
+
+}
+
+.col-mid-8 img {
+    float: right;
+    width: 15%;
+    height: auto;
+}
+
+.col-mid-4 img {
+    float: right;
+    width: 20%;
+    height: auto;
 }
 
 .title {
-
+    font-family: sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 22px;
 }
 
-.title img {
-    float 
+#bottom {
+    font-family: sans-serif;
+}
+
+#bottom img {
+    float: right;
+    width: 10%;
+    height: auto; 
 }
